@@ -1017,7 +1017,7 @@ main.main-06 {
 main .header.header-06 {
   position: unset;
   padding-top: 100px;
-  padding-bottom: 120px;
+  padding-bottom: 80px;
 }
 
 @media (max-width: 767px) {
